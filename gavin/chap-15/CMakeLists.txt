@@ -1,0 +1,2 @@
+add_executable(addressused address_used.c)
+target_link_libraries(addressused gavin)
